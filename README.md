@@ -14,7 +14,7 @@ To build an interactive dashboard that allows business users to:
 
 Dataset :
 
-Sales Database excel sheet, Budget excel sheet
+Sales database.xlsx, Budget.xlsx
 
 Key Metrics (KPIs) :
 
@@ -56,7 +56,7 @@ Deployment Plan :
  
 - Sales analysis dashboard.pbix – Power BI file
 - dashboard_screenshot.png – Final dashboard image
-- Sales Database excel sheet, Budget excel sheet - Dataset
+- Sales database.xlsx, Budget.xlsx - Dataset
 - README.md – Project documentation
 
 Learning Outcome :
